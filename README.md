@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of glowingblue/author-filter.** Not for installation: use [Packagist](https://packagist.org/packages/glowingblue/author-filter) or the [upstream repository](https://github.com/glowingblue/flarum-ext-author-filter).
 
-**0** versions archived · Latest: [`2.0.0-beta.1`](https://github.com/flarchive/glowingblue-author-filter/tree/archive/v2.0.0-beta.1) · License: `MIT` · Flarum: `^2.0.0`
+**4** versions archived · Latest: [`2.0.0-beta.1`](https://github.com/flarchive/glowingblue-author-filter/tree/archive/v2.0.0-beta.1) (stable: [`0.1.0`](https://github.com/flarchive/glowingblue-author-filter/tree/archive/v0.1.0)) · License: `MIT` · Flarum: `^2.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2026-01-27 | `^1.2.0` | [Browse](https://github.com/flarchive/glowingblue-author-filter/tree/archive/v0.1.0) |
+| `1.0.0` | 2026-01-27 | `^1.2.0` | [Browse](https://github.com/flarchive/glowingblue-author-filter/tree/archive/v1.0.0) |
+| `1.0.1` | 2026-02-10 | `^1.2.0` | [Browse](https://github.com/flarchive/glowingblue-author-filter/tree/archive/v1.0.1) |
+| `2.0.0-beta.1` | 2026-08-16 | `^2.0.0` | [Browse](https://github.com/flarchive/glowingblue-author-filter/tree/archive/v2.0.0-beta.1) |
 
 Catalog entry: [packages/glowingblue-author-filter.json](https://github.com/flarchive/archive-index/blob/main/packages/glowingblue-author-filter.json)
 
